@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f77c89b5-900b-4a85-af57-8c4248e47117" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="_FSPHP_FILE" />
+        <option value="_HTML5 File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ds-</find>
+      <find>33715879</find>
+      <find>dash_sidebar_user</find>
+      <find>dash_userbar</find>
+      <find>café</find>
+      <find>dash_content_sidebar</find>
+      <find>Blog</find>
+      <find>dash_content_box</find>
+      <find>transi</find>
+      <find>h1</find>
+      <find>dash_content_app_box</find>
+      <find>app_control_subscribers</find>
+      <find>_FORM</find>
+      <find>actions</find>
+      <find>box_</find>
+      <find>mobile_menu</find>
+      <find>dash_content_app</find>
+      <find>app_control_subs article</find>
+      <find>dash_content_app_header</find>
+      <find>.app_blog_categories article</find>
+      <find>span</find>
+      <find>no_mobile</find>
+      <find>dash_userbar_box</find>
+      <find>mobile</find>
+      <find>radius</find>
+      <find>notification_center_open</find>
+      <find>ajax_response</find>
+      <find>effec</find>
+      <find>mce</find>
+      <find>users</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/assets/css/styles.css" />
+        <option value="$PROJECT_DIR$/assets/css/login.css" />
+        <option value="$PROJECT_DIR$/widgets/blog/dash.php" />
+        <option value="$PROJECT_DIR$/widgets/dash.php" />
+        <option value="$PROJECT_DIR$/widgets/blog/posts.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/widgets/sidebar.php" />
+        <option value="$PROJECT_DIR$/widgets/blog/edit.php" />
+        <option value="$PROJECT_DIR$/widgets/dash/sidebar.php" />
+        <option value="$PROJECT_DIR$/widgets/control/users.php" />
+        <option value="$PROJECT_DIR$/widgets/control/sidebar.php" />
+        <option value="$PROJECT_DIR$/widgets/users/sidebar.php" />
+        <option value="$PROJECT_DIR$/widgets/faqs/sidebar.php" />
+        <option value="$PROJECT_DIR$/widgets/users/home.php" />
+        <option value="$PROJECT_DIR$/widgets/dash/home.php" />
+        <option value="$PROJECT_DIR$/widgets/blog/subscribe.php" />
+        <option value="$PROJECT_DIR$/widgets/control/subscribers.php" />
+        <option value="$PROJECT_DIR$/widgets/blog/create.php" />
+        <option value="$PROJECT_DIR$/widgets/control/create.php" />
+        <option value="$PROJECT_DIR$/widgets/control/plans.php" />
+        <option value="$PROJECT_DIR$/widgets/blog/sidebar.php" />
+        <option value="$PROJECT_DIR$/widgets/blog/categories.php" />
+        <option value="$PROJECT_DIR$/widgets/blog/category-create.php" />
+        <option value="$PROJECT_DIR$/widgets/control/plan-create.php" />
+        <option value="$PROJECT_DIR$/widgets/control/subscriber.php" />
+        <option value="$PROJECT_DIR$/widgets/faqs/channel-create.php" />
+        <option value="$PROJECT_DIR$/widgets/users/create.php" />
+        <option value="$PROJECT_DIR$/widgets/faqs/question-create.php" />
+        <option value="$PROJECT_DIR$/widgets/faqs/home.php" />
+        <option value="$PROJECT_DIR$/widgets/control/home.php" />
+        <option value="$PROJECT_DIR$/widgets/blog/home.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/assets/css/boot.css" />
+        <option value="$PROJECT_DIR$/widgets/blog/post-create.php" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/dash.php" />
+        <option value="$PROJECT_DIR$/assets/js/scripts.js" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="37" />
+    <option name="y" value="43" />
+    <option name="width" value="1334" />
+    <option name="height" value="766" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cafeadm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cafeadm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cafeadm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cafeadm" type="462c0819:PsiDirectoryNode" />
+              <item name="widgets" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/widgets/login" />
+      <recent name="$PROJECT_DIR$/widgets/control" />
+      <recent name="$PROJECT_DIR$/widgets" />
+      <recent name="$PROJECT_DIR$/widgets/dash" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/widgets/faqs" />
+      <recent name="$PROJECT_DIR$/widgets/blog" />
+      <recent name="$PROJECT_DIR$/widgets/control" />
+      <recent name="$PROJECT_DIR$/widgets/users" />
+      <recent name="$PROJECT_DIR$/assets/css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f77c89b5-900b-4a85-af57-8c4248e47117" name="Default Changelist" comment="" />
+      <created>1548332704562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548332704562</updated>
+      <workItem from="1548332705935" duration="42330000" />
+      <workItem from="1548581181961" duration="6000" />
+      <workItem from="1548697671768" duration="31559000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="73895000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="37" y="43" width="1334" height="766" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26006192" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32937685" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32960895" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="76" column="1" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#12#57#0" />
+            <element signature="e#61#79#0" />
+            <element signature="e#17#218#0" />
+            <element signature="e#231#334#0" />
+            <element signature="e#352#395#0" />
+            <element signature="e#412#471#0" />
+            <element signature="e#490#538#0" />
+            <element signature="e#564#644#0" />
+            <element signature="e#669#840#0" />
+            <element signature="e#860#1112#0" />
+            <element signature="e#1132#1213#0" />
+            <element signature="e#1235#1395#0" />
+            <element signature="e#1423#1463#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/control/dash.php" />
+    <entry file="file://$PROJECT_DIR$/assets/js/highcharts.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/tinymce/langs/pt_BR.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/tinyMCE.css" />
+    <entry file="file://$PROJECT_DIR$/widgets/blog/edit.php" />
+    <entry file="file://$PROJECT_DIR$/widgets/dash/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/blog/posts.php" />
+    <entry file="file://$PROJECT_DIR$/widgets/control/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="55" lean-forward="true" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/faqs/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/blog/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/control/plan-create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="48" column="64" selection-start-line="48" selection-start-column="64" selection-end-line="48" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/blog/category-create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="25" column="64" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/users/create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="68" column="73" selection-start-line="68" selection-start-column="73" selection-end-line="68" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/faqs/question-create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/faqs/channel-create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/users/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/control/subscriber.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1206">
+          <caret line="67" column="63" selection-start-line="67" selection-start-column="63" selection-end-line="67" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/control/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/control/subscribers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/control/plans.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/blog/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/blog/categories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/dash/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="44" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/faqs/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/users/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/login/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/boot.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3222">
+          <caret line="179" column="48" selection-start-line="179" selection-start-column="48" selection-end-line="179" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <element signature="e#23#68#0" />
+            <element signature="e#81#109#0" />
+            <element signature="e#113#131#0" />
+            <element signature="e#153#161#0" />
+            <element signature="e#237#245#0" />
+            <element signature="e#264#272#0" />
+            <element signature="e#668#676#0" />
+            <element signature="e#667#687#0" />
+            <element signature="e#167#266#0" />
+            <element signature="e#298#518#0" />
+            <element signature="e#547#761#0" />
+            <element signature="e#789#1040#0" />
+            <element signature="e#1061#1153#0" />
+            <element signature="e#1171#1199#0" />
+            <element signature="e#1322#1330#0" />
+            <element signature="e#1318#1674#0" />
+            <element signature="e#1841#1863#0" />
+            <element signature="e#1994#2014#0" />
+            <element signature="e#1736#1829#0" />
+            <element signature="e#1845#1937#0" />
+            <element signature="e#1956#2050#0" />
+            <element signature="e#2067#2158#0" />
+            <element signature="e#1221#1224#0" />
+            <element signature="e#1243#1308#0" />
+            <element signature="e#1328#1469#0" />
+            <element signature="e#1525#1983#0" />
+            <element signature="e#2002#2227#0" />
+            <element signature="e#2258#2461#0" />
+            <element signature="e#2480#2585#0" />
+            <element signature="e#2587#2828#0" />
+            <element signature="e#2638#2668#0" />
+            <element signature="e#2701#2746#0" />
+            <element signature="e#2791#2826#0" />
+            <element signature="e#2863#2885#0" />
+            <element signature="e#2910#3149#0" />
+            <element signature="e#3175#3491#0" />
+            <element signature="e#3523#3568#0" />
+            <element signature="e#3588#4019#0" />
+            <element signature="e#4032#4077#0" />
+            <element signature="e#4096#4147#0" />
+            <element signature="e#4159#4203#0" />
+            <element signature="e#4221#4271#0" />
+            <element signature="e#4282#4325#0" />
+            <element signature="e#4342#4391#0" />
+            <element signature="e#4405#4451#0" />
+            <element signature="e#4471#4523#0" />
+            <element signature="e#4568#4576#0" />
+            <element signature="e#4711#4739#0" />
+            <element signature="e#5108#5116#0" />
+            <element signature="e#5040#5064#0" />
+            <element signature="e#5040#5064#0" />
+            <element signature="e#5037#5045#0" />
+            <element signature="e#5588#5607#0" />
+            <element signature="e#5645#5663#0" />
+            <element signature="e#4575#4599#0" />
+            <element signature="e#4546#4603#0" />
+            <element signature="e#4613#4674#0" />
+            <element signature="e#4703#4801#0" />
+            <element signature="e#4822#4906#0" />
+            <element signature="e#4933#5163#0" />
+            <element signature="e#5189#5227#0" />
+            <element signature="e#5255#5328#0" />
+            <element signature="e#5362#5385#0" />
+            <element signature="e#5417#5457#0" />
+            <element signature="e#5482#5647#0" />
+            <element signature="e#5679#5717#0" />
+            <element signature="e#5779#5827#0" />
+            <element signature="e#5856#5905#0" />
+            <element signature="e#5925#6026#0" />
+            <element signature="e#6049#6090#0" />
+            <element signature="e#6110#6118#0" />
+            <element signature="e#6165#6173#0" />
+            <element signature="e#6128#6232#0" />
+            <element signature="e#6256#6337#0" />
+            <element signature="e#6391#6456#0" />
+            <element signature="e#6482#6514#0" />
+            <element signature="e#6546#6584#0" />
+            <element signature="e#6696#6704#0" />
+            <element signature="e#6617#6825#0" />
+            <element signature="e#6864#6909#0" />
+            <element signature="e#6938#6996#0" />
+            <element signature="e#7016#7096#0" />
+            <element signature="e#7127#7215#0" />
+            <element signature="e#7251#7274#0" />
+            <element signature="e#7308#7370#0" />
+            <element signature="e#7394#7418#0" />
+            <element signature="e#7445#7521#0" />
+            <element signature="e#7550#7677#0" />
+            <element signature="e#7705#7750#0" />
+            <element signature="e#7780#7926#0" />
+            <element signature="e#7997#8049#0" />
+            <element signature="e#8086#8134#0" />
+            <element signature="e#8161#8244#0" />
+            <element signature="e#8268#8292#0" />
+            <element signature="e#8345#8424#0" />
+            <element signature="e#8455#8539#0" />
+            <element signature="e#8573#8700#0" />
+            <element signature="e#8733#8791#0" />
+            <element signature="e#8826#8868#0" />
+            <element signature="e#8912#8942#0" />
+            <element signature="e#8974#9121#0" />
+            <element signature="e#9189#9285#0" />
+            <element signature="e#9319#9374#0" />
+            <element signature="e#9414#9437#0" />
+            <element signature="e#9485#9543#0" />
+            <element signature="e#9577#9682#0" />
+            <element signature="e#9719#9849#0" />
+            <element signature="e#9885#9922#0" />
+            <element signature="e#9942#10011#0" />
+            <element signature="e#10034#10062#0" />
+            <element signature="e#10090#10192#0" />
+            <element signature="e#10236#10264#0" />
+            <element signature="e#10324#10400#0" />
+            <element signature="e#10444#10523#0" />
+            <element signature="e#10558#10691#0" />
+            <element signature="e#10733#10852#0" />
+            <element signature="e#10890#10967#0" />
+            <element signature="e#11009#11064#0" />
+            <element signature="e#11105#11169#0" />
+            <element signature="e#11209#11357#0" />
+            <element signature="e#11390#11412#0" />
+            <element signature="e#11444#11506#0" />
+            <element signature="e#11537#11579#0" />
+            <element signature="e#11615#11694#0" />
+            <element signature="e#11721#11729#0" />
+            <element signature="e#11719#11780#0" />
+            <element signature="e#11812#11865#0" />
+            <element signature="e#11898#12000#0" />
+            <element signature="e#12035#12058#0" />
+            <element signature="e#12099#12122#0" />
+            <element signature="e#12153#12237#0" />
+            <element signature="e#12270#12318#0" />
+            <element signature="e#12352#12437#0" />
+            <element signature="e#12473#12495#0" />
+            <element signature="e#12542#12658#0" />
+            <element signature="e#12696#12720#0" />
+            <element signature="e#12765#12793#0" />
+            <element signature="e#12830#12878#0" />
+            <element signature="e#12922#12999#0" />
+            <element signature="e#13045#13080#0" />
+            <element signature="e#13123#13187#0" />
+            <element signature="e#13229#13289#0" />
+            <element signature="e#13324#13461#0" />
+            <element signature="e#13493#13539#0" />
+            <element signature="e#13601#13644#0" />
+            <element signature="e#13679#13716#0" />
+            <element signature="e#13750#13779#0" />
+            <element signature="e#13815#13843#0" />
+            <element signature="e#13878#13939#0" />
+            <element signature="e#13977#14056#0" />
+            <element signature="e#14082#14215#0" />
+            <element signature="e#14248#14367#0" />
+            <element signature="e#14396#14473#0" />
+            <element signature="e#14506#14563#0" />
+            <element signature="e#14595#14677#0" />
+            <element signature="e#14911#14929#0" />
+            <element signature="e#14956#14987#0" />
+            <element signature="e#14698#15154#0" />
+            <element signature="e#14743#14924#0" />
+            <element signature="e#14952#14977#0" />
+            <element signature="e#15001#15037#0" />
+            <element signature="e#15054#15084#0" />
+            <element signature="e#15121#15152#0" />
+            <element signature="e#15166#15424#0" />
+            <element signature="e#15215#15255#0" />
+            <element signature="e#15283#15345#0" />
+            <element signature="e#15369#15422#0" />
+            <element signature="e#15436#15724#0" />
+            <element signature="e#15491#15523#0" />
+            <element signature="e#15561#15635#0" />
+            <element signature="e#15678#15722#0" />
+            <element signature="e#15736#16198#0" />
+            <element signature="e#15792#15835#0" />
+            <element signature="e#15862#15893#0" />
+            <element signature="e#15928#15964#0" />
+            <element signature="e#16061#16091#0" />
+            <element signature="e#16162#16196#0" />
+            <element signature="e#16336#16352#0" />
+            <element signature="e#16405#16421#0" />
+            <element signature="e#16452#16468#0" />
+            <element signature="e#16210#16605#0" />
+            <element signature="e#19355#19418#0" />
+            <element signature="e#16368#16420#0" />
+            <element signature="e#16273#16316#0" />
+            <element signature="e#16359#16431#0" />
+            <element signature="e#16468#16529#0" />
+            <element signature="e#16776#16808#0" />
+            <element signature="e#16889#16970#0" />
+            <element signature="e#17010#17043#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dash.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1042">
+          <caret line="35" column="6" lean-forward="true" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/widgets/blog/post-create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
